@@ -1,0 +1,22 @@
+﻿"Programming Exercise.exe" (CoreCLR: DefaultDomain): Carregado "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.1\System.Private.CoreLib.dll". 
+"Programming Exercise.exe" (CoreCLR: clrhost): Carregado "C:\Users\Admin\source\repos\Programming Exercise\Programming Exercise\bin\Debug\net8.0\Programming Exercise.dll". Símbolos carregados.
+"Programming Exercise.exe" (CoreCLR: clrhost): Carregado "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.1\System.Runtime.dll". 
+"Programming Exercise.exe" (CoreCLR: clrhost): Carregado "c:\program files\microsoft visual studio\2022\community\common7\ide\commonextensions\microsoft\hotreload\Microsoft.Extensions.DotNetDeltaApplier.dll". 
+"Programming Exercise.exe" (CoreCLR: clrhost): Carregado "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.1\System.IO.Pipes.dll". 
+"Programming Exercise.exe" (CoreCLR: clrhost): Carregado "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.1\System.Linq.dll". 
+"Programming Exercise.exe" (CoreCLR: clrhost): Carregado "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.1\System.Collections.dll". 
+"Programming Exercise.exe" (CoreCLR: clrhost): Carregado "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.1\System.Console.dll". 
+"Programming Exercise.exe" (CoreCLR: clrhost): Carregado "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.1\System.Threading.dll". 
+"Programming Exercise.exe" (CoreCLR: clrhost): Carregado "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.1\System.Runtime.InteropServices.dll". 
+"Programming Exercise.exe" (CoreCLR: clrhost): Carregado "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.1\System.Threading.Overlapped.dll". 
+"Programming Exercise.exe" (CoreCLR: clrhost): Carregado "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.1\System.Security.AccessControl.dll". 
+"Programming Exercise.exe" (CoreCLR: clrhost): Carregado "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.1\System.Security.Principal.Windows.dll". 
+"Programming Exercise.exe" (CoreCLR: clrhost): Carregado "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.1\System.Security.Claims.dll". 
+"Programming Exercise.exe" (CoreCLR: clrhost): Carregado "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.1\System.Runtime.Loader.dll". 
+"Programming Exercise.exe" (CoreCLR: clrhost): Carregado "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.1\System.Collections.Concurrent.dll". 
+"Programming Exercise.exe" (CoreCLR: clrhost): Carregado "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.1\System.Text.Encoding.Extensions.dll". 
+O thread 0x63d0 foi fechado com o código 0 (0x0).
+O thread 0x6534 foi fechado com o código 0 (0x0).
+O thread 0x2190 foi fechado com o código 0 (0x0).
+O thread 0x6278 foi fechado com o código 0 (0x0).
+O programa "[28872] Programming Exercise.exe" foi fechado com o código 0 (0x0).
