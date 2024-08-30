@@ -14,7 +14,9 @@ namespace Programming_Exercise.Services
         {
             if (endpoints.Any(e => e.SerialNumber == endpoint.SerialNumber))
             {
+
                 throw new Exception("Endpoint with this Serial Number already exists.");
+
             }
             endpoints.Add(endpoint);
         }
